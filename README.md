@@ -30,5 +30,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Screenshot
 ![Alt text](image.png)
 
-Link to walkthrough video: 
+Link to walkthrough video: https://app.screencastify.com/v2/watch/4uSIyUAhIRqnhcJ7qaEj
 
