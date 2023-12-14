@@ -1,6 +1,7 @@
-# sql-challenge-employee-tracker
-
 # SQL Challenge: Employee Tracker
+
+## Description
+Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). This coding assignment is designed to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 ## User Story
 AS A business owner  
@@ -26,10 +27,8 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role  
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database  
 
-### Resources
-*The following links were used as reference to create my portfolio page*
-
-- 
+## Screenshot
+![Alt text](image.png)
 
 Link to walkthrough video: 
 
